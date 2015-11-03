@@ -1,0 +1,9 @@
+Team Member: Louis Paul Romero
+
+                    two_a.txt           two_b.txt           % difference        
+Mean                0.000487012         0.00046123          5.29376             
+Variance            0.0223272           0.020774            6.95648             
+Standard Deviation  0.149423            0.144132            3.54093             
+Average Power       0.022323            0.0207701           6.95652             
+Average Magnitude   0.0453888           0.0546183           20.3343             
+Zero Cross          111                 67                  39.6396             
